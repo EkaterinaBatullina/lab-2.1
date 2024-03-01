@@ -13,7 +13,7 @@ public class ArrayList {
     public static void main(String[] args) throws EmptyElementException, IndexOutOfBoundException {
         
         Array<Integer> array1 = new Array<Integer>(10);
-        
+        //l
         for (int i = 0; i < 10; ++i) {
             array1.add(i);
             System.out.print(array1.array[i] + " ");
