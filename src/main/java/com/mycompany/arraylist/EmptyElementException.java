@@ -9,5 +9,5 @@ package com.mycompany.arraylist;
  * @author ekaterina
  */
 public class EmptyElementException extends Exception {
-    
+    //kkkkk
 }
